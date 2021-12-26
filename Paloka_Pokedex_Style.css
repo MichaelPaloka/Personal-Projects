@@ -5,8 +5,34 @@
 
 #mainContainer{
     margin: 0px auto;
+    width: 1000px;
+    background-color: crimson;
 }
 
 #pokedexTitle{
     text-align: center;
+    color: white;
+}
+
+#body{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+#search{
+    display: flex;
+    background-color: gray;
+    padding: 20px;
+}
+
+#searchButton{
+    border: 0px;
+    background: transparent;
+    width: 1px;
+}
+
+#abilities{
+    background-color: blue;
+    padding: 20px;
 }
