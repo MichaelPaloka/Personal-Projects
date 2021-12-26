@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#mainContainer{
+    margin: 0px auto;
+}
+
+#pokedexTitle{
+    text-align: center;
+}
